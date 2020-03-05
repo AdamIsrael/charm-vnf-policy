@@ -6,5 +6,6 @@ description: |
 tags:
   - misc
 series:
+  - xenial
   - bionic
 subordinate: false
